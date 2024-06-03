@@ -1,4 +1,4 @@
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/dalmo123/95f90ecf966d22e29d1271084c13e802/raw/fa36c6b7327b125813c07fddc569562ba8f72aff/githubcard.svg"/>
+<img align="right" height="350em" src="https://raw.githubusercontent.com/gist/dalmo123/95f90ecf966d22e29d1271084c13e802/raw/fa36c6b7327b125813c07fddc569562ba8f72aff/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dalmo Scalon</h1>
 
 - 🔥 Information Systems student and technology enthusiast.
